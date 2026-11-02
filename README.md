@@ -15,9 +15,9 @@ The project explores the impact of modern technology and artificial intelligence
 | Phase | Tasks | Duration |
 |-------|-------|----------|
 | 1 | Script writing | |
-| 2 | Storyboarding | |
-| 3 | Environment & character design | |
-| 4 | Voice-over | |
+| 2 |Voice-over | |
+| 3 |  Storyboarding  | |
+| 4 |  Environment & character design| |
 | 5 | Character animation | |
 | 6 | Editing & sound effects | |
 
