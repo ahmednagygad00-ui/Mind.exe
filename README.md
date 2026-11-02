@@ -8,7 +8,7 @@ The project explores the impact of modern technology and artificial intelligence
 |---|------|
 | 1 | Ahmed Nagy Gad  |
 | 2 | Magda Mohamed Adel |
-| 3 | |Abdelaziz Ahmed Ghazal |
+| 3 | Abdelaziz Ahmed Ghazal |
 | 4 | Hana Ismail Ali |
 
 ## Work Plan
